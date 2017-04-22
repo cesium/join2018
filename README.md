@@ -1,2 +1,0 @@
-# JOIN
-Jornadas de Informática
