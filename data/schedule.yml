@@ -24,3 +24,28 @@
 #           (opcional)
 #
 #*************************
+
+days:
+  - id: dayone
+    date: Junho 12
+    title: Security
+    events:
+      - time: '09:00'
+        icon: chevron-circle-right
+        title: Sessão de Abertura
+        text: >
+          Sessão de abertura da edição deste ano. Será apresentado o calendário, parceiros e concursos da Join
+  - id: daytwo
+    date: Junho 13
+    title: Mobile/IoT
+    events:
+      - time: '09:00'
+        icon: chevron-circle-right
+        title: TBA      
+  - id: daythree
+    date: Junho 14
+    title: WebApp's
+    events:
+      - time: '09:00'
+        icon: chevron-circle-right
+        title: TBA
