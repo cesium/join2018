@@ -35,13 +35,103 @@ days:
         title: Sessão de Abertura
         text: >
           Sessão de abertura da edição deste ano. Será apresentado o calendário, parceiros e concursos da Join
+      - time: '09:45'
+        icon: connectdevelop
+        title: Sessão Técnica
+        speaker:
+          from: IT Grow
+      - time: '10:30'
+        icon: coffee
+        title: Coffee Break
+      - time: '11:00'
+        icon: connectdevelop
+        title: Sessão Ténica
+        speaker:
+          from: Accenture
+      - time: '11:45'
+        icon: microphone
+        title: Keynote
+        speaker:
+          name: TBA
+      - time: '12:30'
+        icon: cutlery
+        title: Almoço
+      - time: '14:00'
+        icon: connectdevelop
+        title: Sessão Técnica
+        speaker:
+          from: EuroTux
+      - time: '14:45'
+        title: Keynote
+        icon: microphone
+        speaker:
+          from: TBA
+      - time: '15:30'
+        icon: coffee
+        title: Coffee Break
+      - time: '16:00'
+        icon: connectdevelop
+        title: Sessão Técnica
+        speaker:
+          from: Feedzai
+      - time: '16:45'
+        icon: coffee
+        title: Coffee Break
+      - time: '17:10'
+        icon: hourglass-start
+        title: Pitch
   - id: daytwo
     date: Junho 13
     title: Mobile/IoT
     events:
       - time: '09:00'
         icon: chevron-circle-right
-        title: TBA      
+        title: TBA
+      - time: '09:45'
+        icon: connectdevelop
+        title: Sessão Técnica
+        speaker:
+          from: IT Sector
+      - time: '10:30'
+        icon: coffee
+        title: Coffee Break
+      - time: '11:00'
+        icon: connectdevelop
+        title: Sessão Ténica
+        speaker:
+          from: Farfetch
+      - time: '11:45'
+        icon: microphone
+        title: Keynote
+        speaker:
+          name: TBA
+      - time: '12:30'
+        icon: cutlery
+        title: Almoço
+      - time: '14:00'
+        icon: connectdevelop
+        title: Sessão Técnica
+        speaker:
+          from: Tlantic
+      - time: '14:45'
+        title: Keynote
+        icon: microphone
+        speaker:
+          from: TBA
+      - time: '15:30'
+        icon: coffee
+        title: Coffee Break
+      - time: '16:00'
+        icon: connectdevelop
+        title: Sessão Técnica
+        speaker:
+          from: Efacec
+      - time: '16:45'
+        icon: coffee
+        title: Coffee Break
+      - time: '17:10'
+        icon: hourglass-start
+        title: Pitch    
   - id: daythree
     date: Junho 14
     title: WebApp's
@@ -49,3 +139,48 @@ days:
       - time: '09:00'
         icon: chevron-circle-right
         title: TBA
+      - time: '09:45'
+        icon: connectdevelop
+        title: Sessão Técnica
+        speaker:
+          from: Primavera
+      - time: '10:30'
+        icon: coffee
+        title: Coffee Break
+      - time: '11:00'
+        icon: connectdevelop
+        title: Sessão Ténica
+        speaker:
+          from: ebankIT
+      - time: '11:45'
+        icon: microphone
+        title: Keynote
+        speaker:
+          name: TBA
+      - time: '12:30'
+        icon: cutlery
+        title: Almoço
+      - time: '14:00'
+        icon: connectdevelop
+        title: Sessão Técnica
+        speaker:
+          from: Deloitte
+      - time: '14:45'
+        title: Keynote
+        icon: microphone
+        speaker:
+          from: TBA
+      - time: '15:30'
+        icon: coffee
+        title: Coffee Break
+      - time: '16:00'
+        icon: connectdevelop
+        title: Sessão Técnica
+        speaker:
+          from: TBA
+      - time: '16:45'
+        icon: coffee
+        title: Coffee Break
+      - time: '17:10'
+        icon: hourglass-start
+        title: Pitch
