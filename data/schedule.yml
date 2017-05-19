@@ -28,13 +28,13 @@
 days:
   - id: dayone
     date: Junho 12
-    title: Segurança
+    title: Security
     events:
       - time: '09:00'
         icon: chevron-circle-right
         title: Sessão de Abertura
         text: >
-          Sessão de abertura da edição deste ano. Será apresentado o calendário, parceiros e concursos da Join
+          Sessão de abertura da edição deste ano. Será apresentado o calendário, parceiros e concursos da JOIN.
       - time: '09:45'
         icon: connectdevelop
         title: Sessão Técnica
