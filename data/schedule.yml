@@ -28,7 +28,7 @@
 days:
   - id: dayone
     date: Junho 12
-    title: Security
+    title: Segurança
     events:
       - time: '09:00'
         icon: chevron-circle-right
