@@ -71,9 +71,11 @@ days:
         title: Coffee Break
       - time: '16:00'
         icon: connectdevelop
-        title: Sessão Técnica
+        title: Real world technical challenges vs. programming challenges
         speaker:
+          name: João Silva
           from: Feedzai
+        text: > Apresentação de desafios tecnológicos da Feedzai e análise das decisões técnicas envolvidas.
       - time: '16:45'
         icon: coffee
         title: Coffee Break
@@ -131,7 +133,7 @@ days:
         title: Coffee Break
       - time: '17:10'
         icon: hourglass-start
-        title: Pitch    
+        title: Pitch
   - id: daythree
     date: Junho 14
     title: WebApp's
