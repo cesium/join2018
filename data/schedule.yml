@@ -50,9 +50,10 @@ days:
           from: Accenture
       - time: '11:45'
         icon: microphone
-        title: Keynote
+        title: 7 ways to stop an attack
         speaker:
           name: TBA
+          from: Sophos
       - time: '12:30'
         icon: cutlery
         title: Almoço
@@ -62,10 +63,11 @@ days:
         speaker:
           from: EuroTux
       - time: '14:45'
-        title: Keynote
         icon: microphone
+        title: Keynote
         speaker:
-          from: TBA
+          name: Alexandru Balan
+          from: BitDefender
       - time: '15:30'
         icon: coffee
         title: Coffee Break
