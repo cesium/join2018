@@ -75,7 +75,7 @@ days:
         speaker:
           name: João Silva
           from: Feedzai
-        text: > Apresentação de desafios tecnológicos da Feedzai e análise das decisões técnicas envolvidas.
+        text:  Apresentação de desafios tecnológicos da Feedzai e análise das decisões técnicas envolvidas.
       - time: '16:45'
         icon: coffee
         title: Coffee Break
