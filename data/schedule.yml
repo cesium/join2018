@@ -191,6 +191,7 @@ days:
         title: Modern Front-End with Vue
         speaker:
           name: Eduardo Morote
+          from: Vue.js
       - time: '12:30'
         icon: cutlery
         title: Almoço
