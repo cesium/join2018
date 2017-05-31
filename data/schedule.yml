@@ -88,13 +88,17 @@ days:
     date: Junho 13
     title: Mobile/IoT
     events:
-      - time: '09:00'
+      - time: '09:15'
         icon: chevron-circle-right
         title: TBA
+        speaker:
+          name: Vasco Santos
+          from: Mindera
       - time: '09:45'
         icon: connectdevelop
         title: Sessão Técnica
         speaker:
+          name: 
           from: IT Sector
       - time: '10:30'
         icon: coffee
