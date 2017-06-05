@@ -45,7 +45,7 @@ days:
         title: Coffee Break
       - time: '11:00'
         icon: connectdevelop
-        title: Sessão Ténica
+        title: Sessão Técnica
         speaker:
           from: Accenture
       - time: '11:45'
@@ -64,7 +64,7 @@ days:
           from: EuroTux
       - time: '14:45'
         icon: microphone
-        title: Keynote
+        title: IoT Security : Is the threat real?
         speaker:
           name: Alexandru Balan
           from: BitDefender
@@ -115,7 +115,7 @@ days:
         title: Coffee Break
       - time: '11:00'
         icon: connectdevelop
-        title: Sessão Ténica
+        title: Sessão Técnica
         speaker:
           from: Farfetch
       - time: '11:45'
@@ -169,7 +169,7 @@ days:
     events:
       - time: '09:15'
         icon: connectdevelop
-        title: Sessão Técnica
+        title: From student to journeyman, a developer in the business world
         speaker:
           name: Vasco Santos
           from: Mindera
@@ -183,7 +183,7 @@ days:
         title: Coffee Break
       - time: '11:00'
         icon: connectdevelop
-        title: Sessão Ténica
+        title: Sessão Técnica
         speaker:
           from: ebankIT
       - time: '11:45'
