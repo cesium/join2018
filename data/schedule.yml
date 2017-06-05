@@ -39,20 +39,24 @@ days:
         icon: connectdevelop
         title: Sessão Técnica
         speaker:
+          name: Nuno Vaz Santos
           from: IT Grow
       - time: '10:30'
         icon: coffee
         title: Coffee Break
       - time: '11:00'
         icon: connectdevelop
-        title: Sessão Técnica
+        title: Working in Accenture Technology
+        text: >
+          Present and future trends in the Technology Workplace.
         speaker:
+          name: Pedro Ricou
           from: Accenture
       - time: '11:45'
         icon: microphone
         title: 7 ways to stop an attack
         speaker:
-          name: TBA
+          name: Alberto Rodas
           from: Sophos
       - time: '12:30'
         icon: cutlery
@@ -102,13 +106,14 @@ days:
     events:
       - time: '09:00'
         icon: chevron-circle-right
-        title: TBA
+        title: 30 anos LCC
         speaker:
           from: TBA
       - time: '09:45'
         icon: connectdevelop
-        title: Sessão Técnica
+        title: Mobile development using Microsoft Xamarin
         speaker:
+          name: Cristóvão Morgado
           from: IT Sector
       - time: '10:30'
         icon: coffee
