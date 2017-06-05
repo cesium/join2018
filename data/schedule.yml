@@ -68,7 +68,7 @@ days:
           from: EuroTux
       - time: '14:45'
         icon: microphone
-        title: IoT Security : Is the threat real?
+        title: IoT Security - Is the threat real?
         speaker:
           name: Alexandru Balan
           from: BitDefender
