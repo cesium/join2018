@@ -37,7 +37,9 @@ days:
           Sessão de abertura da edição deste ano. Será apresentado o calendário, parceiros e concursos da JOIN.
       - time: '09:45'
         icon: connectdevelop
-        title: Sessão Técnica
+        title: Critical Software and a different approach to Secure and Safe Systems
+        text: >
+          Advanced IT solutions are playing an ever greater role in the day-to-day performance of security services and armed forces. Our experience in the creation of scalable architectures and resilient operations, combined with controlled functionality and access to data, makes CRITICAL Software a natural partner for clients with demanding requirements in this sector.
         speaker:
           name: Nuno Vaz Santos
           from: IT Grow
@@ -165,8 +167,11 @@ days:
           from: Smith Micro Software
       - time: '17:20'
         icon: connectdevelop
-        title: Sessão Técnica
+        title: IoT: Making it happen
+        text: >
+          Esta apresentação endereça o tema do IoT e as questões que se levantam com o crescimento à escala global do nº de dispositivos ligados. Dentro de poucos anos a nossa sociedade viverá cada vez mais dependente da informação recolhida por sensores e pela capacidade de atuação no contexto envolvente e este é o momento de viragem, em que é fundamental que os operadores se posicionem com uma estratégia diferenciadora. A concretização da estratégia deve ser evolutiva possibilitando a evolução da Framewok IoT e do ecossistema de parceiros, definindo prioridades sempre em linha com as dinâmicas do mercado.
         speaker:
+          name: Isabel Borges
           from: AlticeLabs / InovaRia
   - id: daythree
     date: Junho 14
