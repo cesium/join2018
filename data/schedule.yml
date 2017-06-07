@@ -65,9 +65,11 @@ days:
         title: Almoço
       - time: '14:00'
         icon: connectdevelop
-        title: Sessão Técnica
+        title: Protecting your Webapps
         speaker:
+          name: Nuno Fernandes
           from: EuroTux
+        text: Nesta talk serão abordadas algumas das melhores práticas na segurança de aplicações web na vertente do protocolo HTTP. O objetivo será apresentar alguns dos ataques web mais comuns e como os mitigar.
       - time: '14:45'
         icon: microphone
         title: IoT Security - Is the threat real?
