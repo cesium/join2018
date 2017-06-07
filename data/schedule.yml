@@ -151,8 +151,9 @@ days:
         title: Coffee Break
       - time: '16:00'
         icon: connectdevelop
-        title: Sessão Técnica
+        title: The Smart Grid Challenges on the Digital Age
         speaker:
+          name: Cláudio Silva e Paulo Viegas
           from: Efacec
       - time: '16:45'
         icon: coffee
