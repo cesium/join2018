@@ -119,19 +119,24 @@ days:
         speaker:
           name: Cristóvão Morgado
           from: IT Sector
+        text:
+           How to build a simple application for Android and iOS using Visual Studio 2017 and Xamarin .
       - time: '10:30'
         icon: coffee
         title: Coffee Break
       - time: '11:00'
         icon: connectdevelop
-        title: Sessão Técnica
+        title: IoT & Mobile - Shaping the Store of the Future
         speaker:
+          name: Lino Silva
           from: Farfetch
+        text:
+          The Internet of Things and Mobile have been slowly but steadily taking over our daily lives - and Farfetch is no exception to that rule. With the announcement of its new Store of the Future business unit, we're now venturing into retail spaces and connecting the physical and digital worlds.
       - time: '11:45'
         icon: microphone
         title: Keynote
         speaker:
-          from: TBA
+          name: Pedro Veloso
       - time: '12:30'
         icon: cutlery
         title: Almoço
@@ -142,7 +147,7 @@ days:
           name: Paulo Ribeiro
           from: Tlantic
         title:
-          A Indústria de Retalho continua a ser uma das que mais desafios coloca ás Arquiteturas e soluções de TI. A necessidade dos retalhistas integrarem cada vez melhor os seus canais offline e online têm lançado novas necessidades de inovação, no tratamento do life-cycle de experiência de compra do consumidor. Nesta apresentação será exposta a abordagem de inovação que a Tlantic, como empresa de Produto, incorpora inovação nas suas soluções de mercado, utilizando por base as tecnologias e métodos de desenvolvimento mais recentes.  
+          A Indústria de Retalho continua a ser uma das que mais desafios coloca ás Arquiteturas e soluções de TI. A necessidade dos retalhistas integrarem cada vez melhor os seus canais offline e online têm lançado novas necessidades de inovação, no tratamento do life-cycle de experiência de compra do consumidor. Nesta apresentação será exposta a abordagem de inovação que a Tlantic, como empresa de Produto, incorpora inovação nas suas soluções de mercado, utilizando por base as tecnologias e métodos de desenvolvimento mais recentes.
       - time: '14:45'
         icon: microphone
         title: Perception of Speed
@@ -158,6 +163,8 @@ days:
         speaker:
           name: Cláudio Silva e Paulo Viegas
           from: Efacec
+        text:
+          A view on the challenges that the electrical power grid is facing on this fast paced digital revolution. From renewable energies and distributed generation to an exponential growth of data collection and exchange, the world is creating new threats but also valuable opportunities to the power systems utilities.
       - time: '16:45'
         icon: coffee
         title: Coffee Break
@@ -191,17 +198,23 @@ days:
           from: Mindera
       - time: '09:45'
         icon: connectdevelop
-        title: Sessão Técnica
+        title: PRIMAVERA (R)EVOLUTION
         speaker:
+          name: José Silva e Jorge Ribeiro
           from: Primavera
+        text:
+          How PRIMAVERA is evolving from on-premises\legacy applications into cloud-based apps
       - time: '10:30'
         icon: coffee
         title: Coffee Break
       - time: '11:00'
         icon: connectdevelop
-        title: Sessão Técnica
+        title: Innovation in the Banking Sector
         speaker:
+          name: Carlos Fernandes e Eduardo Burnay
           from: ebankIT
+        text:
+          Demonstração de como potencia e suporta a Transformação Digital acelerada no sector financeiro, através da inovação, trabalhando com bancos e outras instituições.
       - time: '11:45'
         icon: microphone
         title: Modern Front-End with Vue
@@ -215,7 +228,10 @@ days:
         icon: connectdevelop
         title: Sessão Técnica
         speaker:
-          from: TBA
+          name: Luís Calado
+          from: Microsoft
+        text:
+          
       - time: '14:45'
         title: Keynote
         icon: microphone
@@ -244,6 +260,7 @@ days:
           from: Fujitsu
       - time: '17:20'
         icon: connectdevelop
-        title: Sessão Técnica
+        title: OutSystems a DSL Made in Portugal
         speaker:
+          name: Carla Gregório e Tiago Fernandes
           from: Outsystems
