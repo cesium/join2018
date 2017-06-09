@@ -151,7 +151,7 @@ days:
         speaker:
           name: Paulo Ribeiro
           from: Tlantic
-        title:
+        text:
           A Indústria de Retalho continua a ser uma das que mais desafios coloca ás Arquiteturas e soluções de TI. A necessidade dos retalhistas integrarem cada vez melhor os seus canais offline e online têm lançado novas necessidades de inovação, no tratamento do life-cycle de experiência de compra do consumidor. Nesta apresentação será exposta a abordagem de inovação que a Tlantic, como empresa de Produto, incorpora inovação nas suas soluções de mercado, utilizando por base as tecnologias e métodos de desenvolvimento mais recentes.
       - time: '14:45'
         icon: microphone
