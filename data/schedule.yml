@@ -56,7 +56,7 @@ days:
           from: Accenture
       - time: '11:45'
         icon: microphone
-        title: 7 ways to stop an attack
+        title: 7 ways to Stop an Attack
         speaker:
           name: Alberto Rodas
           from: Sophos
@@ -104,6 +104,11 @@ days:
         title: Pitch
         speaker:
           from: Winprovit
+      - time: '17:30'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: ANO
   - id: daytwo
     date: Junho 13
     title: Mobile/IoT
@@ -112,7 +117,7 @@ days:
         icon: chevron-circle-right
         title: 30 anos LCC
         speaker:
-          from: TBA
+          name: Professor José Manuel Valença e Professor José Nuno Oliveira
       - time: '09:45'
         icon: connectdevelop
         title: Mobile development using Microsoft Xamarin
@@ -186,6 +191,11 @@ days:
         speaker:
           name: Isabel Borges
           from: AlticeLabs / InovaRia
+      - time: '18:30'
+        icon: coffee
+        title: Sunset
+        speaker:
+          from: Restaurante Panorâmico
   - id: daythree
     date: Junho 14
     title: WebApp's
@@ -226,24 +236,22 @@ days:
         title: Almoço
       - time: '14:00'
         icon: connectdevelop
-        title: Sessão Técnica
+        title: TBA
         speaker:
-          name: Luís Calado
-          from: Microsoft
-        text:
-          
+          from: Startup Braga
       - time: '14:45'
-        title: Keynote
         icon: microphone
+        title: Keynote
         speaker:
-          from: TBA
+          from: Microsfot
       - time: '15:30'
         icon: coffee
         title: Coffee Break
       - time: '16:00'
         icon: connectdevelop
-        title: Sessão Técnica
+        title: Leading Technology for Risk Management in the Cloud
         speaker:
+          name: João Moutinho e Raúl Azevedo
           from: Sonae IM
       - time: '16:45'
         icon: coffee
