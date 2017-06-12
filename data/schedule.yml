@@ -196,9 +196,6 @@ days:
           from: Efacec
         text:
           A view on the challenges that the electrical power grid is facing on this fast paced digital revolution. From renewable energies and distributed generation to an exponential growth of data collection and exchange, the world is creating new threats but also valuable opportunities to the power systems utilities.
-      - time: '16:45'
-        icon: coffee
-        title: Coffee Break
       - time: '17:00'
         icon: hourglass-start
         title: Pitch
@@ -305,9 +302,6 @@ days:
         speaker:
           name: João Moutinho e Raúl Azevedo
           from: Sonae IM
-      - time: '16:45'
-        icon: coffee
-        title: Coffee Break
       - time: '17:00'
         icon: hourglass-start
         title: Pitch
