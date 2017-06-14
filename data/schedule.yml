@@ -243,7 +243,7 @@ days:
         icon: microphone
         title: Keynote
         speaker:
-          from: Microsfot
+          from: Microsoft
       - time: '15:30'
         icon: coffee
         title: Coffee Break
