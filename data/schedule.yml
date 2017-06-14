@@ -109,6 +109,32 @@ days:
         title: Pitch
         speaker:
           from: ANO
+      - time: '18:30'
+        icon: microphone
+        title: Entrevista Farfetch
+        speaker:
+          from: DI 0.02
+      - time: '18:30'
+        icon: microphone
+        title: Entrevista Accenture
+        speaker:
+          from: DI 0.11
+      - time: '18:30'
+        icon: microphone
+        title: Entrevista ebankIT
+        speaker:
+          from: DI 0.03
+      - time: '18:30'
+        icon: microphone
+        title: Entrevista Sonae IM
+        speaker:
+          from: DI 0.12
+      - time: '18:30'
+        icon: microphone
+        title: Entrevista EuroTux
+        speaker:
+          from: DI 0.04
+
   - id: daytwo
     date: Junho 13
     title: Mobile/IoT
@@ -170,9 +196,6 @@ days:
           from: Efacec
         text:
           A view on the challenges that the electrical power grid is facing on this fast paced digital revolution. From renewable energies and distributed generation to an exponential growth of data collection and exchange, the world is creating new threats but also valuable opportunities to the power systems utilities.
-      - time: '16:45'
-        icon: coffee
-        title: Coffee Break
       - time: '17:00'
         icon: hourglass-start
         title: Pitch
@@ -192,10 +215,36 @@ days:
           name: Isabel Borges
           from: AlticeLabs / InovaRia
       - time: '18:30'
+        icon: microphone
+        title: Entrevista IT Sector
+        speaker:
+          from: DI 0.02
+      - time: '18:30'
+        icon: microphone
+        title: Entrevista Accenture
+        speaker:
+          from: DI 0.11
+      - time: '18:30'
+        icon: microphone
+        title: Entrevista ebankIT
+        speaker:
+          from: DI 0.03
+      - time: '18:30'
+        icon: microphone
+        title: Entrevista Sonae IM
+        speaker:
+          from: DI 0.12
+      - time: '18:30'
+        icon: microphone
+        title: Entrevista AlticeLabs / InovaRia
+        speaker:
+          from: DI 0.04
+      - time: '18:30'
         icon: coffee
         title: Sunset
         speaker:
           from: Restaurante Panorâmico
+      
   - id: daythree
     date: Junho 14
     title: WebApp's
@@ -253,9 +302,6 @@ days:
         speaker:
           name: João Moutinho e Raúl Azevedo
           from: Sonae IM
-      - time: '16:45'
-        icon: coffee
-        title: Coffee Break
       - time: '17:00'
         icon: hourglass-start
         title: Pitch
@@ -272,3 +318,23 @@ days:
         speaker:
           name: Carla Gregório e Tiago Fernandes
           from: Outsystems
+      - time: '18:30'
+        icon: microphone
+        title: Entrevista Primavera
+        speaker:
+          from: DI 0.02
+      - time: '18:30'
+        icon: microphone
+        title: Entrevista Accenture
+        speaker:
+          from: DI 0.11
+      - time: '18:30'
+        icon: microphone
+        title: Entrevista ebankIT
+        speaker:
+          from: DI 0.03
+      - time: '18:30'
+        icon: microphone
+        title: Entrevista Sonae IM
+        speaker:
+          from: DI 0.12
