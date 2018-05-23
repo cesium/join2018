@@ -27,8 +27,7 @@
 
 days:
   - id: dayone
-    date: Junho 12
-    title: Security
+    date: Junho 11
     events:
       - time: '09:00'
         icon: chevron-circle-right
@@ -136,8 +135,7 @@ days:
           from: DI 0.04
 
   - id: daytwo
-    date: Junho 13
-    title: Mobile/IoT
+    date: Junho 12
     events:
       - time: '09:00'
         icon: chevron-circle-right
@@ -246,8 +244,7 @@ days:
           from: Restaurante Panorâmico
       
   - id: daythree
-    date: Junho 14
-    title: WebApp's
+    date: Junho 13
     events:
       - time: '09:15'
         icon: connectdevelop
