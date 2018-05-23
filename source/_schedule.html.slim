@@ -1,0 +1,64 @@
+section#schedule
+  .container
+    .row
+      .span12
+        .module-header.schedule-header
+          h4 Programa
+
+      .span12
+        ul#schedule-tabs.nav.nav-pills.tab-fillspace
+          - data.schedule.days.each_with_index do |day, index|
+            li class=('active' if index == 0)
+              a data-toggle="tab" href="##{day.id}"
+                = day.date
+
+      .tab-content
+        - data.schedule.days.each_with_index do |day, index|
+          div class="tab-pane wo-tab-pane fade in #{'active' if index==0}" id="#{day.id}"
+            .span4
+              h2= day.title
+              p== day.text
+              /TODO
+              -if day.pdf.present? and day.pdf != '#'
+                .schedule-download
+                  a.btn.pdf href=(day.pdf)
+                    i.fa.fa-file-pdf-o.fa-lg
+                    p Programa Completo
+            .span8
+              section.timeline.toggle-shortcode.toggles
+                - day.events.each do |event|
+                  article.event
+                    .timeline-icon
+                      .timeline-icon-container
+                        i class=(event.icon.present? ? "fa fa-#{event.icon}" : "fa")
+                    .time-box
+                      time= event.time
+                    .timeline-content
+                      .event-content
+                        div class="event-title#{' toggle-item-title' if event.text.present?}" data-count="1"
+                          - if event.image.present? and event.imagelink.present?
+                            a href=(event.imagelink)
+                              - if event.text.present?
+                                .hidden-phone
+                                  =image_tag event.image
+                                .visible-phone
+                                  =image_tag event.image, style: 'margin-top:30px'
+                              - else
+                                =image_tag event.image
+                          - elsif event.image.present?
+                            - if event.text.present?
+                              .hidden-phone
+                                =image_tag event.image
+                              .visible-phone
+                                =image_tag event.image, style: 'margin-top:30px'
+                            - else
+                              =image_tag event.image
+                          h3= event.title
+                          - if (speaker = event.speaker).present?
+                            h4
+                              = speaker.name
+                              - if speaker.from.present?
+                                span<=speaker.from
+                        - if event.text.present?
+                          .toggle-item-body style="display: none;"
+                            p== event.text

@@ -1,0 +1,38 @@
+doctype html
+html
+  head
+    title JOIN 2018
+    meta content="width=device-width, initial-scale=1.0" name="viewport" /
+
+    /! all css files
+    = stylesheet_link_tag "app"
+
+    / Favicon
+    = favicon_tag './images/favicon.ico'
+
+    meta content=("text/html; charset=utf-8") http-equiv="Content-Type" /
+
+    / Share graphs
+    meta content="JOIN 2018" property="og:title" /
+    meta content="A JOIN é um evento anual que visa promover a interação entre os alunos dos cursos de três ciclos de estudos da Universidade do Minho e o meio empresarial, regional ou nacional, que tem sido a sua maior força empregadora." property="og:description" /
+    meta property="og:image" content="http://join.di.uminho.pt/images/logo-face.png"
+    meta property="og:url" content="http://join.di.uminho.pt"
+
+    /! HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries
+    /! WARNING: Respond.js doesn't work if you view the page via file://
+    | <!--[if lt IE 9]>
+    = javascript_include_tag "https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"
+    = javascript_include_tag "https://oss.maxcdn.com/respond/1.4.2/respond.min.js"
+    | <![endif]-->
+
+    = javascript_include_tag "https://maps.googleapis.com/maps/api/js"
+  body
+    = partial 'header'
+
+    == yield
+
+    = partial 'footer'
+
+    /! javascript
+    = javascript_include_tag "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"
+    = javascript_include_tag "app"
