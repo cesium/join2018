@@ -29,9 +29,248 @@ days:
   - id: dayone
     date: Junho 11
     events:
-      - time: '09:00'
+      - time: '09:30'
         icon: chevron-circle-right
         title: Sessão de Abertura
         text: >
           Sessão de abertura da edição deste ano. Será apresentado o calendário, parceiros e concursos da JOIN.
-      
+      - time: '10:15'
+        icon: connectdevelop
+        title: TBA
+        speaker:
+          name: José Nuno Oliveira
+          from: Universidade do Minho
+      - time: '11:00'
+        icon: coffee
+        title: Coffee Break
+      - time: '11:30'
+        icon: connectdevelop
+        title: TBA
+        speaker:
+          name: TBA
+          from: Farfetch
+      - time: '11:55'
+        icon: microphone
+        speaker:
+          name: TBA
+          from: 360 Imprimir
+      - time: '12:15'
+        icon: microphone
+        title: Engenharia do Conhecimento
+        speaker:
+          name: José Machado
+          from: Universidade do Minho
+      - time: '13:00'
+        icon: cutlery
+        title: Almoço
+      - time: '14:30'
+        icon: connectdevelop
+        title: Computação Paralela Distribuída
+        speaker:
+          name: Alberto José Proença
+          from: Universidade do Minho
+      - time: '15:15'
+        icon: microphone
+        title: TBA
+        speaker:
+          name: TBA
+          from: TBA
+      - time: '16:00'
+        icon: coffee
+        title: Coffee Break
+      - time: '16:30'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: Vilt
+      - time: '16:40'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: PRIME IT
+      - time: '16:50'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: APTIV
+      - time: '17:00'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: i2s
+      - time: '17:10'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: INOVA RIA
+      - time: '17:20'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: WINPROVIT  
+
+  - id: daytwo
+    date: Junho 12
+    events:
+      - time: '09:30'
+        icon: chevron-circle-right
+        title: Sistemas Inteligentes
+        speaker:
+          name: César Analide
+          from: Universidade do Minho
+      - time: '10:15'
+        icon: connectdevelop
+        title: Engenharia de Aplicações
+        speaker:
+          name: António Luís Sousa
+          from: Universidade do Minho
+      - time: '11:00'
+        icon: coffee
+        title: Coffee Break
+      - time: '11:30'
+        icon: connectdevelop
+        title: TBA
+        speaker:
+          name: TBA
+          from: Alexandria
+      - time: '11:55'
+        icon: microphone
+        speaker:
+          name: TBA
+          from: Primavera
+      - time: '12:15'
+        icon: microphone
+        title: Machine Learning
+        speaker:
+          name: César Analide
+          from: Universidade do Minho
+      - time: '13:00'
+        icon: cutlery
+        title: Almoço
+      - time: '14:30'
+        icon: connectdevelop
+        title: Criptografia e Sistemas Informáticos
+        speaker:
+          name: José Valença
+          from: Universidade do Minho
+      - time: '15:15'
+        icon: microphone
+        title: Métodos Formais em Engenharia de Software
+        speaker:
+          name: José Nuno Oliveira
+          from: Universidade do Minho
+      - time: '16:00'
+        icon: coffee
+        title: Coffee Break
+      - time: '16:30'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: Fujistu
+      - time: '16:40'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: ENANCER
+      - time: '16:50'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: KWAN
+      - time: '17:00'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: WINTOUCH
+
+  
+  - id: daythree
+    date: Junho 13
+    events:
+      - time: '09:30'
+        icon: chevron-circle-right
+        title: Elementos de Engenharia de Sistemas
+        speaker:
+          name: André Leite Ferreira
+          from: Universidade do Minho
+      - time: '10:15'
+        icon: connectdevelop
+        title: Processamento de Linguagens e Conhecimento
+        speaker:
+          name: Pedro Rangel Henriques
+          from: Universidade do Minho
+      - time: '11:00'
+        icon: coffee
+        title: Coffee Break
+      - time: '11:30'
+        icon: connectdevelop
+        title: Sistemas Distribuídos
+        speaker:
+          name: Carlos Baquero
+          from: Universidade do Minho
+      - time: '11:55'
+        icon: microphone
+        speaker:
+          name: TBA
+          from: Outsystems
+      - time: '12:15'
+        icon: microphone
+        title: Computação Gráfica
+        speaker:
+          name: António Ramires Fernandes
+          from: Universidade do Minho
+      - time: '12:40'
+        icon: connectdevelop
+        title: TBA
+        speaker:
+          name: TBA
+          from: Accenture
+      - time: '13:00'
+        icon: cutlery
+        title: Almoço
+      - time: '14:30'
+        icon: connectdevelop
+        title: TBA
+        speaker:
+          name: TBA
+          from: Celfocus
+      - time: '14:55'
+        icon: connectdevelop
+        title: TBA
+        speaker:
+          name: TBA
+          from: Sonae IM
+      - time: '15:15'
+        icon: microphone
+        title: Ciências de Dados
+        speaker:
+          name: Rui Oliveira
+          from: Universidade do Minho
+      - time: '16:00'
+        icon: coffee
+        title: Coffee Break
+      - time: '16:30'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: Alert
+      - time: '16:40'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: Ano
+      - time: '16:50'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: Blip
+      - time: '17:00'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: EbankIT
+      - time: '17:10'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: Smith Micro Software
