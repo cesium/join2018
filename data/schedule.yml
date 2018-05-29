@@ -97,17 +97,17 @@ days:
         icon: hourglass-start
         title: Pitch
         speaker:
-          from: i2s
+          from: Inova Ria
       - time: '17:10'
         icon: hourglass-start
         title: Pitch
         speaker:
-          from: INOVA RIA
+          from: WinProvit
       - time: '17:20'
         icon: hourglass-start
         title: Pitch
         speaker:
-          from: WINPROVIT  
+          from: IT Sector  
 
   - id: daytwo
     date: Junho 12
@@ -166,7 +166,7 @@ days:
         icon: hourglass-start
         title: Pitch
         speaker:
-          from: Fujistu
+          from: i2s
       - time: '16:40'
         icon: hourglass-start
         title: Pitch
@@ -182,6 +182,16 @@ days:
         title: Pitch
         speaker:
           from: WINTOUCH
+      - time: '17:10'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: Fujitsu
+      - time: '17:20'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: Syone
 
   
   - id: daythree
@@ -274,3 +284,8 @@ days:
         title: Pitch
         speaker:
           from: Smith Micro Software
+      - time: '17:20'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: Bold International
