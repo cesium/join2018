@@ -1339,6 +1339,11 @@ a.rss:hover {
     width: 1170px;
 }
 
+.registration {
+    width: 1080px;
+    padding-left: 45px;
+}
+
 .span6 .item-3 li {
     width: 170px;
 }
