@@ -36,7 +36,7 @@ days:
           Sessão de abertura da edição deste ano. Será apresentado o calendário, parceiros e concursos da JOIN.
       - time: '10:15'
         icon: connectdevelop
-        title: TBA
+        title: Preparing Programmers for Quantum
         speaker:
           name: José Nuno Oliveira
           from: Universidade do Minho
@@ -51,15 +51,22 @@ days:
           from: Farfetch
       - time: '11:55'
         icon: microphone
+        title: TBA
         speaker:
           name: TBA
           from: 360 Imprimir
       - time: '12:15'
         icon: microphone
-        title: Engenharia do Conhecimento
+        title: TBA
         speaker:
-          name: José Machado
-          from: Universidade do Minho
+          name: TBA
+          from: Celfocus
+      - time: '12:40'
+        icon: microphone
+        title: Introduction to Modern Graph Analysis using opensource tools like Tinkerpop and Janusgraph
+        speaker:
+          name: Ricardo Faria
+          from: Sonae IM
       - time: '13:00'
         icon: cutlery
         title: Almoço
@@ -71,10 +78,16 @@ days:
           from: Universidade do Minho
       - time: '15:15'
         icon: microphone
+        title: Computação Gráfica
+        speaker:
+          name: António Ramires Fernandes
+          from: Universidade do Minho
+      - time: '15:40'
+        icon: microphone
         title: TBA
         speaker:
           name: TBA
-          from: TBA
+          from: Acenture
       - time: '16:00'
         icon: coffee
         title: Coffee Break
@@ -108,41 +121,52 @@ days:
         title: Pitch
         speaker:
           from: IT Sector  
-
+      - time: '17:30'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: Kwan
+      - time: '17:40'
+        icon: hourglass-start
+        title: Pitch
+        speaker:
+          from: Bold International
+  
   - id: daytwo
     date: Junho 12
     events:
       - time: '09:30'
         icon: chevron-circle-right
-        title: Sistemas Inteligentes
+        title: Machine Learning
         speaker:
           name: César Analide
           from: Universidade do Minho
       - time: '10:15'
         icon: connectdevelop
-        title: Engenharia de Aplicações
+        title: Engenharia do Conhecimento
         speaker:
-          name: António Luís Sousa
+          name: José Machado
           from: Universidade do Minho
       - time: '11:00'
         icon: coffee
         title: Coffee Break
       - time: '11:30'
         icon: connectdevelop
-        title: TBA
+        title: "Crowdsourcing, Big Data e Behavioural Science: Nossos Pilares"
         speaker:
-          name: TBA
+          name: Maurício Moura & Kiko Sader
           from: Alexandria
       - time: '11:55'
         icon: microphone
+        title: Before there was nothing ...
         speaker:
-          name: TBA
+          name: Pedro Mendes & Diogo Rocha
           from: Primavera
       - time: '12:15'
         icon: microphone
-        title: Machine Learning
+        title: Sistemas Inteligentes
         speaker:
-          name: César Analide
+          name: Paulo Novais
           from: Universidade do Minho
       - time: '13:00'
         icon: cutlery
@@ -171,12 +195,12 @@ days:
         icon: hourglass-start
         title: Pitch
         speaker:
-          from: ENANCER
+          from: Enancer
       - time: '16:50'
         icon: hourglass-start
         title: Pitch
         speaker:
-          from: KWAN
+          from: Natixis
       - time: '17:00'
         icon: hourglass-start
         title: Pitch
@@ -205,7 +229,7 @@ days:
           from: Universidade do Minho
       - time: '10:15'
         icon: connectdevelop
-        title: Processamento de Linguagens e Conhecimento
+        title: Source Code Analysis
         speaker:
           name: Pedro Rangel Henriques
           from: Universidade do Minho
@@ -220,42 +244,49 @@ days:
           from: Universidade do Minho
       - time: '11:55'
         icon: microphone
+        title: Engineering @ OutSystems
         speaker:
-          name: TBA
+          name: Carla Gregório & Tiago Fernandes
           from: Outsystems
       - time: '12:15'
         icon: microphone
-        title: Computação Gráfica
+        title: Engenharia de Aplicações
         speaker:
-          name: António Ramires Fernandes
+          name: António Luís Sousa
           from: Universidade do Minho
       - time: '12:40'
         icon: connectdevelop
         title: TBA
         speaker:
           name: TBA
-          from: Accenture
+          from: Eurotux
       - time: '13:00'
         icon: cutlery
         title: Almoço
       - time: '14:30'
         icon: connectdevelop
-        title: TBA
+        title: Engenharia de Redes e Serviços Internet
         speaker:
-          name: TBA
-          from: Celfocus
+          name: Alexandre Santos
+          from: Universidade do Minho
       - time: '14:55'
         icon: connectdevelop
-        title: TBA
+        title: Vehicular Communication Technologies and ITS Applications
         speaker:
-          name: TBA
-          from: Sonae IM
+          name: Bruno Ribeiro
+          from: Universidade do Minho / Centro Algoritmi
       - time: '15:15'
         icon: microphone
-        title: Ciências de Dados
+        title: Gestão e Virtualização de Redes
         speaker:
-          name: Rui Oliveira
+          name: Joaquim Macedo
           from: Universidade do Minho
+      - time: '15:40'
+        icon: microphone
+        title: Secure Communications and Identity Management in Vehicular Networks
+        speaker:
+          name: Fábio Gonçalves
+          from: Universidade do Minho / Centro Algoritmi
       - time: '16:00'
         icon: coffee
         title: Coffee Break
@@ -288,4 +319,4 @@ days:
         icon: hourglass-start
         title: Pitch
         speaker:
-          from: Bold International
+          from: IK Consult
