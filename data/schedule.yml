@@ -57,9 +57,9 @@ days:
           from: 360 Imprimir
       - time: '12:15'
         icon: microphone
-        title: TBA
+        title: Managed Services | Celfocus focus on client
         speaker:
-          name: TBA
+          name: Marco Lizardo
           from: Celfocus
       - time: '12:40'
         icon: microphone
@@ -87,7 +87,7 @@ days:
         title: TBA
         speaker:
           name: TBA
-          from: Acenture
+          from: Accenture
       - time: '16:00'
         icon: coffee
         title: Coffee Break
@@ -258,9 +258,9 @@ days:
           from: Universidade do Minho
       - time: '12:40'
         icon: connectdevelop
-        title: TBA
+        title: Administração de Sistemas
         speaker:
-          name: TBA
+          name: António Coutinho
           from: Eurotux
       - time: '13:00'
         icon: cutlery
