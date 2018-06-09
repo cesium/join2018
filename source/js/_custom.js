@@ -119,7 +119,7 @@ $(document).ready(function() {
     //     });
     // }, 12000);
     $('#map_canvas').gmap({
-        'center': new google.maps.LatLng(41.560337, -8.3969115),
+        'center': new google.maps.LatLng(41.561471, -8.397279),
         'zoom': 17,
         'mapTypeControl': false,
         'navigationControl': false,
@@ -150,12 +150,12 @@ $(document).ready(function() {
     $('#map_canvas').gmap().bind('init', function() {
         $('#map_canvas').gmap('addMarker', {
             'id': 'marker-1',
-            'position': '41.5596907,-8.3976961',
+            'position': '41.561493,-8.397009',
             'bounds': false,
             'icon': image
         }).click(function() {
             $('#map_canvas').gmap('openInfoWindow', {
-                'content': '<h4>JOIN 2016</h4><p><strong>Complexo Pedagógico 2</strong><br>Anfiteatro B1</p>'
+                'content': '<h4>JOIN 2018</h4><p><strong>Departamento de Informática</strong><br>Anfiteatro 2</p>'
             }, this);
         });
     });

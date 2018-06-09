@@ -80,13 +80,13 @@ days:
         icon: microphone
         title: Computação Gráfica
         speaker:
-          name: António Ramires Fernandes
+          name: Luís Paulo Santos
           from: Universidade do Minho
       - time: '15:40'
         icon: microphone
         title: TBA
         speaker:
-          name: TBA
+          name: António Lemos
           from: Accenture
       - time: '16:00'
         icon: coffee
@@ -135,7 +135,7 @@ days:
         icon: connectdevelop
         title: Engenharia do Conhecimento
         speaker:
-          name: José Machado
+          name: José Machado & Ricardo Godinho
           from: Universidade do Minho
       - time: '11:00'
         icon: coffee
