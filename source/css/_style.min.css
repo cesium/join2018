@@ -616,6 +616,11 @@ nav select {
     padding: 20px 0;
 }
 
+#submission section, a:hover, a:active {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
 #org {
     background: #FFFFFF;
     padding: 60px 0;
