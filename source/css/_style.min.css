@@ -629,6 +629,10 @@ nav select {
     padding: 60px 0;
 }
 
+#prizes {
+    background: #2C3840;
+}
+
 #map {
     background: #4C5D67;
     padding: 0;
@@ -743,6 +747,9 @@ hr.divider-short {
     z-index: 1;
 }
 
+#prizes .subheader h4 {
+    color: #EF7247;
+}
 .subheader.white h4 {
     color: #fff;
 }
