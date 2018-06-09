@@ -584,22 +584,25 @@ nav select {
     padding-bottom: 80px;
 }
 
-#contact h3{
-    color: #000000;
-}
-
-#contact i.fa.fa-map-marker.fa-3x{
+#contact i.fa.fa-map-marker.fa-3x {
     color: #e67e22;
 }
 
-#contact i.fa.fa-mobile.fa-3x{
+#contact i.fa.fa-mobile.fa-3x {
     color: #3498db;
 }
 
-#contact i.fa.fa-envelope-o.fa-3x{
+#contact i.fa.fa-envelope-o.fa-3x {
     color: #2ecc71;
 }
 
+#contact a:link {
+    color: #ffffff;
+}
+
+#contact a:hover {
+    color: #e67e2f;
+}
 
 #newsletter {
     background: #E7EBED;
@@ -620,7 +623,6 @@ nav select {
     background: #FFFFFF;
     padding: 60px 0;
 }
-
 
 #map {
     background: #4C5D67;
