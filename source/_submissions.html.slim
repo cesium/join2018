@@ -13,23 +13,11 @@ section#submissions
               | Submissão de CVs
             br/
             br/
-            form action="assets/cvs/recolhe_cv.php" enctype="multipart/form-data" method="POST"
-              table
-                tr
-                  td.direita.white Email
-                  td
-                    input maxlength="60" name="email" size="8" type="text" /
-                tr
-                  td.direita.white Nome
-                  td
-                    input maxlength="60" name="nome" size="60" type="text" /
-                tr
-                  td.direita.white CV (pdf)
-                  td
-                    input#ficheiro_cv.white accept="application/pdf" name="ficheiro_cv" type="file" /
-                tr
-                  td align="center" colspan="2"
-                    input type="submit" value="submeter" /
+            p.white
+              ' Envia o teu cv para
+              a.white href="mailto:cvjoin2018@gmail.com" 
+                ' cvjoin2018@gmail.com
+              | e habilita-te a ganhar uma PlayStation 4 Pro.
             br/
             br/
             center
