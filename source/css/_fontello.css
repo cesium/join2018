@@ -114,7 +114,7 @@
 .iconf-youtube:before { content: '\e83b'; } /* 'î »' */
 .iconf-vimeo:before { content: '\e83a'; } /* 'î º' */
 .iconf-yahoo:before { content: '\e83e'; } /* 'î ¾' */
-.iconf-facebook:before { content: '\e838'; } /* 'î ¸' */
+.iconf-facebook-f:before { content: '\e838'; } /* 'î ¸' */
 .iconf-lastfm:before { content: '\e842'; } /* 'î¡‚' */
 .iconf-tumblr:before { content: '\e843'; } /* 'î¡ƒ' */
 .iconf-wordpress:before { content: '\e84e'; } /* 'î¡Ž' */
