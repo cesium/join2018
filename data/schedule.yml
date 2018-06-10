@@ -68,7 +68,7 @@ days:
           name: Ricardo Faria
           from: Sonae IM
       - time: '13:00'
-        icon: fa fa-cutlery
+        icon: fas fa-utensils
         title: Almoço
       - time: '14:30'
         icon: fab fa-connectdevelop
@@ -159,7 +159,7 @@ days:
           name: Paulo Novais
           from: Universidade do Minho      
       - time: '13:00'
-        icon: fa fa-cutlery
+        icon: fas fa-utensils
         title: Almoço
       - time: '14:30'
         icon: fab fa-connectdevelop
@@ -263,7 +263,7 @@ days:
           name: António Coutinho
           from: Eurotux
       - time: '13:00'
-        icon: fa fa-cutlery
+        icon: fas fa-utensils
         title: Almoço
       - time: '14:30'
         icon: fab fa-connectdevelop
