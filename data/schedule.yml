@@ -30,94 +30,94 @@ days:
     date: Junho 11
     events:
       - time: '09:30'
-        icon: chevron-circle-right
+        icon: fa fa-chevron-circle-right
         title: Sessão de Abertura
         text: >
           Sessão de abertura da edição deste ano. Será apresentado o calendário, parceiros e concursos da JOIN.
       - time: '10:15'
-        icon: connectdevelop
+        icon: fab fa-connectdevelop
         title: Preparing Programmers for Quantum
         speaker:
           name: José Nuno Oliveira
           from: Universidade do Minho
       - time: '11:00'
-        icon: coffee
+        icon: fa fa-coffee
         title: Coffee Break
       - time: '11:30'
-        icon: connectdevelop
+        icon: fab fa-connectdevelop
         title: Infrastructure @ Farfetch
         speaker:
           name: Cristiano Cunha & André Carmo
           from: Farfetch
       - time: '11:55'
-        icon: microphone
+        icon: fa fa-microphone
         title: Test Automation in a Fast Paced Business!
         speaker:
           name: Sérgio Pinheiro
           from: 360 Imprimir
       - time: '12:15'
-        icon: microphone
+        icon: fa fa-microphone
         title: Managed Services | Celfocus focus on client
         speaker:
           name: Marco Lizardo
           from: Celfocus
       - time: '12:40'
-        icon: microphone
+        icon: fa fa-microphone
         title: Introduction to Modern Graph Analysis using opensource tools like Tinkerpop and Janusgraph
         speaker:
           name: Ricardo Faria
           from: Sonae IM
       - time: '13:00'
-        icon: cutlery
+        icon: fa fa-cutlery
         title: Almoço
       - time: '14:30'
-        icon: connectdevelop
+        icon: fab fa-connectdevelop
         title: Computação Paralela Distribuída
         speaker:
           name: Alberto José Proença
           from: Universidade do Minho
       - time: '15:15'
-        icon: microphone
+        icon: fa fa-microphone
         title: Computação Gráfica
         speaker:
           name: Luís Paulo Santos
           from: Universidade do Minho
       - time: '15:40'
-        icon: microphone
+        icon: fa fa-microphone
         title: TBA
         speaker:
           name: António Lemos
           from: Accenture
       - time: '16:00'
-        icon: coffee
+        icon: fa fa-coffee
         title: Coffee Break
       - time: '16:30'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: Vilt
       - time: '16:40'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: PRIME IT
       - time: '16:50'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: APTIV
       - time: '17:00'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: Inova Ria
       - time: '17:10'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: IT Sector
       - time: '17:20'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: Kwan
@@ -126,89 +126,89 @@ days:
     date: Junho 12
     events:
       - time: '09:30'
-        icon: chevron-circle-right
+        icon: fa fa-chevron-circle-right
         title: Machine Learning
         speaker:
           name: César Analide
           from: Universidade do Minho
       - time: '10:15'
-        icon: connectdevelop
+        icon: fab fa-connectdevelop
         title: Engenharia do Conhecimento
         speaker:
           name: José Machado & Ricardo Godinho
           from: Universidade do Minho
       - time: '11:00'
-        icon: coffee
+        icon: fa fa-coffee
         title: Coffee Break
       - time: '11:30'
-        icon: connectdevelop
+        icon: fab fa-connectdevelop
         title: "Crowdsourcing, Big Data e Behavioural Science: Nossos Pilares"
         speaker:
           name: Maurício Moura & Kiko Sader
           from: Alexandria
       - time: '11:55'
-        icon: microphone
+        icon: fa fa-microphone
         title: Before there was nothing ...
         speaker:
           name: Pedro Mendes & Diogo Rocha
           from: Primavera
       - time: '12:15'
-        icon: microphone
+        icon: fa fa-microphone
         title: Sistemas Inteligentes
         speaker:
           name: Paulo Novais
           from: Universidade do Minho      
       - time: '13:00'
-        icon: cutlery
+        icon: fa fa-cutlery
         title: Almoço
       - time: '14:30'
-        icon: connectdevelop
+        icon: fab fa-connectdevelop
         title: Criptografia e Segurança da Informação
         speaker:
           name: José Valença
           from: Universidade do Minho
       - time: '14:55'
-        icon: microphone
+        icon: fa fa-microphone
         title: TBA
         speaker:
           name: Vítor Castro
           from: INCM
       - time: '15:15'
-        icon: microphone
+        icon: fa fa-microphone
         title: Métodos Formais em Engenharia de Software
         speaker:
           name: José Nuno Oliveira
           from: Universidade do Minho
       - time: '16:00'
-        icon: coffee
+        icon: fa fa-coffee
         title: Coffee Break
       - time: '16:30'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: i2s
       - time: '16:40'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: Enancer
       - time: '16:50'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: Natixis
       - time: '17:00'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: WINTOUCH
       - time: '17:10'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: Fujitsu
       - time: '17:20'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: Syone
@@ -218,107 +218,107 @@ days:
     date: Junho 13
     events:
       - time: '09:30'
-        icon: chevron-circle-right
+        icon: fa fa-chevron-circle-right
         title: Elementos de Engenharia de Sistemas
         speaker:
           name: André Leite Ferreira
           from: Universidade do Minho
       - time: '10:15'
-        icon: connectdevelop
+        icon: fab fa-connectdevelop
         title: Application Security in Practice @ Checkmarx
         speaker:
           name: Daniel Novais e Fu Xu
           from: Checkmarx
       - time: '10:40'
-        icon: microphone
+        icon: fa fa-microphone
         title: Recauchutagem do Dicionário da Academia
         speaker:
           name: Alberto Simões
           from: IPCA
       - time: '11:00'
-        icon: coffee
+        icon: fa fa-coffee
         title: Coffee Break
       - time: '11:30'
-        icon: connectdevelop
+        icon: fab fa-connectdevelop
         title: Sistemas Distribuídos
         speaker:
           name: Carlos Baquero
           from: Universidade do Minho
       - time: '11:55'
-        icon: microphone
+        icon: fa fa-microphone
         title: Engineering @ OutSystems
         speaker:
           name: Carla Gregório & Tiago Fernandes
           from: Outsystems
       - time: '12:15'
-        icon: microphone
+        icon: fa fa-microphone
         title: Engenharia de Aplicações
         speaker:
           name: António Luís Sousa
           from: Universidade do Minho
       - time: '12:40'
-        icon: connectdevelop
+        icon: fab fa-connectdevelop
         title: Administração de Sistemas
         speaker:
           name: António Coutinho
           from: Eurotux
       - time: '13:00'
-        icon: cutlery
+        icon: fa fa-cutlery
         title: Almoço
       - time: '14:30'
-        icon: connectdevelop
+        icon: fab fa-connectdevelop
         title: Engenharia de Redes e Serviços Internet
         speaker:
           name: Alexandre Santos
           from: Universidade do Minho
       - time: '14:55'
-        icon: connectdevelop
+        icon: fab fa-connectdevelop
         title: Vehicular Communication Technologies and ITS Applications
         speaker:
           name: Bruno Ribeiro
           from: Universidade do Minho / Centro Algoritmi
       - time: '15:15'
-        icon: microphone
+        icon: fa fa-microphone
         title: Gestão e Virtualização de Redes
         speaker:
           name: Joaquim Macedo
           from: Universidade do Minho
       - time: '15:40'
-        icon: microphone
+        icon: fa fa-microphone
         title: Secure Communications and Identity Management in Vehicular Networks
         speaker:
           name: Fábio Gonçalves
           from: Universidade do Minho / Centro Algoritmi
       - time: '16:00'
-        icon: coffee
+        icon: fa fa-coffee
         title: Coffee Break
       - time: '16:30'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: Alert
       - time: '16:40'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: Ano
       - time: '16:50'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: Blip
       - time: '17:00'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: EbankIT
       - time: '17:10'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: Smith Micro Software
       - time: '17:20'
-        icon: hourglass-start
+        icon: fa fa-hourglass-start
         title: Pitch
         speaker:
           from: iKual
