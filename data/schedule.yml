@@ -223,7 +223,7 @@ days:
     events:
       - time: '09:30'
         icon: fa fa-chevron-circle-right
-        title: Elementos de Engenharia de Sistemas
+        title: Engenharia de Sistemas de Software
         speaker:
           name: André Leite Ferreira
           from: Universidade do Minho
