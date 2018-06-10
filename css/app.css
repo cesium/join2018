@@ -6737,15 +6737,15 @@ nav select {
     padding-bottom: 80px;
 }
 
-#contact i.fa.fa-map-marker.fa-3x {
+#contact i.fas.fa-map-marker-alt.fa-3x {
     color: #e67e22;
 }
 
-#contact i.fa.fa-mobile.fa-3x {
+#contact i.fa.fa-mobile-alt.fa-3x {
     color: #3498db;
 }
 
-#contact i.fa.fa-envelope-o.fa-3x {
+#contact i.fa.fa-envelope.fa-3x {
     color: #2ecc71;
 }
 
@@ -7074,7 +7074,7 @@ a.icon-wrap.small {
     color: #fff;
 }
 
-a.facebook:hover {
+a.facebook-f:hover {
     background: #3b5996;
 }
 
