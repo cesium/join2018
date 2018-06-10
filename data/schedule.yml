@@ -169,7 +169,7 @@ days:
           from: Universidade do Minho
       - time: '14:55'
         icon: microphone
-        title: TBA
+        title: O valor da segurança
         speaker:
           name: Vítor Castro
           from: INCM
@@ -212,7 +212,11 @@ days:
         title: Pitch
         speaker:
           from: Syone
-
+      - time: '18:30'
+        icon: beer
+        title: Sunset
+        speaker:
+          from: Restaurante Panorâmico
   
   - id: daythree
     date: Junho 13
