@@ -30,7 +30,7 @@ section#schedule
                   article.event
                     .timeline-icon
                       .timeline-icon-container
-                        i class=(event.icon.present? ? "#{event.icon}" : "fa")
+                        i class=(event.icon.present? ? "fa fa-#{event.icon}" : "fa")
                     .time-box
                       time= event.time
                     .timeline-content
