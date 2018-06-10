@@ -168,13 +168,8 @@ days:
           name: José Valença
           from: Universidade do Minho
       - time: '14:55'
-<<<<<<< HEAD
-        icon: microphone
-        title: O valor da segurança
-=======
         icon: fa fa-microphone
-        title: TBA
->>>>>>> 873f129f568948f77afad40ae48b9c8790a39271
+        title: O valor da segurança
         speaker:
           name: Vítor Castro
           from: INCM
