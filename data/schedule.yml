@@ -43,12 +43,6 @@ days:
       - time: '11:00'
         icon: fa fa-coffee
         title: Coffee Break
-      - time: '11:30'
-        icon: fab fa-connectdevelop
-        title: Infrastructure @ Farfetch
-        speaker:
-          name: Cristiano Cunha & André Carmo
-          from: Farfetch
       - time: '11:55'
         icon: fa fa-microphone
         title: Test Automation in a Fast Paced Business!
@@ -95,31 +89,37 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
+          name: Ana Anjo
           from: Vilt
       - time: '16:40'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
+          name: André Silva
           from: PRIME IT
       - time: '16:50'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
+          name: Eduardo Afonso
           from: APTIV
       - time: '17:00'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
+          name: Regina Sacchetti & Carlos Lopes
           from: Inova Ria
       - time: '17:10'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
+          name: Maria Inês Domingues
           from: IT Sector
       - time: '17:20'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
+          name: Sara Gorjão
           from: Kwan
   
   - id: daytwo
@@ -174,11 +174,11 @@ days:
           name: Vítor Castro
           from: INCM
       - time: '15:15'
-        icon: fa fa-microphone
-        title: Métodos Formais em Engenharia de Software
+        icon: fab fa-connectdevelop
+        title: Infrastructure @ Farfetch
         speaker:
-          name: José Nuno Oliveira
-          from: Universidade do Minho
+          name: Cristiano Cunha & André Carmo
+          from: Farfetch
       - time: '16:00'
         icon: fa fa-coffee
         title: Coffee Break
@@ -186,11 +186,13 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
+          name: Diogo Ferreira
           from: i2s
       - time: '16:40'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
+          name: António Silva Ferreira
           from: Enancer
       - time: '16:50'
         icon: fa fa-hourglass-start
@@ -201,6 +203,7 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
+          name: Pedro Alves
           from: WINTOUCH
       - time: '17:10'
         icon: fa fa-hourglass-start
@@ -211,6 +214,7 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
+          name: João Gomes
           from: Syone
       - time: '18:30'
         icon: beer
@@ -226,6 +230,12 @@ days:
         title: Engenharia de Sistemas de Software
         speaker:
           name: André Leite Ferreira
+          from: Universidade do Minho
+      - time: '9:50'
+        icon: fa fa-microphone
+        title: Métodos Formais em Engenharia de Software
+        speaker:
+          name: José Nuno Oliveira
           from: Universidade do Minho
       - time: '10:15'
         icon: fab fa-connectdevelop
@@ -300,11 +310,13 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
+          name: Bruno Costa
           from: Alert
       - time: '16:40'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
+          name: Pedro Leite
           from: Ano
       - time: '16:50'
         icon: fa fa-hourglass-start
@@ -315,6 +327,7 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
+          name: Helena Castro
           from: EbankIT
       - time: '17:10'
         icon: fa fa-hourglass-start
@@ -325,4 +338,5 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
+          name: Ricardo Lopes
           from: iKual
