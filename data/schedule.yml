@@ -273,7 +273,7 @@ days:
         icon: fab fa-connectdevelop
         title: Engenharia de Redes e Serviços Internet
         speaker:
-          name: Alexandre Santos
+          name: Pedro Nuno Sousa
           from: Universidade do Minho
       - time: '14:55'
         icon: fab fa-connectdevelop
@@ -285,7 +285,7 @@ days:
         icon: fa fa-microphone
         title: Gestão e Virtualização de Redes
         speaker:
-          name: Joaquim Macedo
+          name: António Costa
           from: Universidade do Minho
       - time: '15:40'
         icon: fa fa-microphone
