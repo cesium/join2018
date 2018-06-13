@@ -8303,7 +8303,7 @@ a.rss:hover {
         line-height: 1.1;
     }
     .hero-unit > h2 {
-        font-size: 45px;
+        font-size: 35px;
     }
     .carouselslider {
         margin: 0 auto;
@@ -8398,7 +8398,6 @@ a.rss:hover {
 
 .registration div{
     width: 1080px;
-    padding-left: 45px;
 }
 @font-face {
     font-family: 'Roboto Slab Bold';
@@ -8711,11 +8710,16 @@ html[xmlns] .slides {display: block;}
 }
 
 #gold .sponsor img {
-  max-width: 350px;
+  max-width: 250px;
+}
+
+#gold .sponsor_sm img {
+  max-width: 200px;
+  padding: 0 50px;
 }
 
 #silver .sponsor img {
-  max-width: 250px;
+  max-width: 200px;
 }
 
 #bronze .sponsor img {
@@ -8725,4 +8729,115 @@ html[xmlns] .slides {display: block;}
 .event-title img {
   margin-top: 0.5em;
   max-width:7.5em;
+}
+
+.sponsors-header {
+  margin-bottom: 75px;
+}
+
+#gold_sponsorship, #silver_sponsorship, #bronze_sponsorship {
+  display: flex;
+  position: absolute;
+  left: 0;
+  margin-top: 25px;
+}
+
+#gold_sponsorship {
+  margin-top: 50px;
+}
+
+#gold_sponsorship .title {
+  background-color: #d4af37;
+}
+
+#silver, #bronze {
+  margin-top: 100px;
+}
+
+#silver_sponsorship .title {
+  background-color: #c0c0c0;
+}
+
+#bronze_sponsorship .title {
+  background-color: #cd7f32;
+}
+
+.title h3 {
+  margin: 5px 25px 5px 50px;
+}
+
+#triangle {
+  width: 0;
+  height: 0;
+  border-top: 25px solid transparent;
+  border-bottom: 25px solid transparent;
+}
+
+#gold_sponsorship #triangle {
+  border-left: 25px solid #d4af37;
+}
+
+#silver_sponsorship #triangle {
+  border-left: 25px solid #c0c0c0;
+}
+
+#bronze_sponsorship #triangle {
+  border-left: 25px solid #cd7f32;
+}
+
+@media (max-width: 768px) {
+  .sponsors-header {
+    margin-bottom: 0;
+  }
+
+  #gold_sponsorship {
+    margin-top: 25px;
+  }
+
+  .title h3 {
+    font-size: 20px;
+    margin: 0px 15px 0px 30px;
+  }
+
+  #triangle {
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+  }
+
+  #gold_sponsorship #triangle {
+    border-left: 20px solid #d4af37;
+  }
+
+  #silver_sponsorship #triangle {
+    border-left: 20px solid #c0c0c0;
+  }
+
+  #bronze_sponsorship #triangle {
+    border-left: 20px solid #cd7f32;
+  }
+
+  #gold, #silver {
+    margin-top: 50px;
+  }
+
+  #bronze {
+   margin-top: 70px;
+ }
+
+  #gold .sponsor img {
+    max-width: 200px;
+  }
+
+  #gold .sponsor_sm img {
+    max-width: 150px;
+    padding: 0 0 15px 0;
+  }
+
+  #silver .sponsor img {
+    max-width: 150px;
+  }
+
+  #bronze .sponsor img {
+    max-width: 100px;
+  }
 }
