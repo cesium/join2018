@@ -121,6 +121,12 @@ days:
         speaker:
           name: Sara Gorjão
           from: Kwan
+      - time: '18:30'
+        icon: fas fa-comments
+        title: Entrevistas
+        speaker:
+          name:
+          from:
   
   - id: daytwo
     date: Junho 12
@@ -221,6 +227,12 @@ days:
         title: Sunset
         speaker:
           from: Restaurante Panorâmico
+      - time: '18:30'
+        icon: fas fa-comments
+        title: Entrevistas
+        speaker:
+          name:
+          from:
   
   - id: daythree
     date: Junho 13
@@ -340,3 +352,9 @@ days:
         speaker:
           name: Ricardo Lopes
           from: iKual
+      - time: '18:30'
+        icon: fas fa-comments
+        title: Entrevistas
+        speaker:
+          name:
+          from:
