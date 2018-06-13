@@ -2150,7 +2150,7 @@ a.rss:hover {
         line-height: 1.1;
     }
     .hero-unit > h2 {
-        font-size: 45px;
+        font-size: 35px;
     }
     .carouselslider {
         margin: 0 auto;
@@ -2245,5 +2245,4 @@ a.rss:hover {
 
 .registration div{
     width: 1080px;
-    padding-left: 45px;
 }
